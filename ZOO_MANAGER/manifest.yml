@@ -1,0 +1,6 @@
+applications:
+  - name: ZooManagerAD
+    random-route: true
+    memory: 256M
+    path: target/rest-service.war
+    buildpack: java_buildpack
