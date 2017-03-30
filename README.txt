@@ -1,0 +1,1 @@
+﻿Lien du service déployé en PAAS : https://zoomanagerad.eu-gb.mybluemix.net/zoo-manager/animals
